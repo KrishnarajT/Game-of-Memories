@@ -10,6 +10,7 @@ A simple Memory Game themed on Game of Thrones, written in HTML, CSS and JavaScr
 ![](screenshot.png)
 
 # GamePlay
+<img src="game-of-memories.gif" width = "1080">
 ![](game-of-memories.gif)
 
 # Credits
