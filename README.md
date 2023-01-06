@@ -11,7 +11,6 @@ A simple Memory Game themed on Game of Thrones, written in HTML, CSS and JavaScr
 
 # GamePlay
 <img src="game-of-memories.gif" width = "1080">
-![](game-of-memories.gif)
 
 # Credits
 This is the first website I have made, thanks to tutorials from [The Free Code Camp.org](https://www.youtube.com/@freecodecamp) for the neverending help.
