@@ -75,7 +75,7 @@ const gridDisplay = document.querySelector('#grid');
 const playAgainButton = document.getElementsByTagName('button')[0];
 playAgainButton.addEventListener('click', clearAll);
 playAgainButton.addEventListener('mousemove', function (e) {});
-playAgainButton.disabled = false;
+playAgainButton.disabled = true;
 
 // create the baord from the randomly assigned values from the array.
 // calls the flipcard function upon clicking it.

@@ -13,5 +13,7 @@ A simple Memory Game themed on Game of Thrones, written in HTML, CSS and JavaScr
 <img src="game-of-memories.gif" width = "1080">
 
 # Credits
-This is the first website I have made, thanks to tutorials from [The Free Code Camp.org](https://www.youtube.com/@freecodecamp) for the neverending help.
+As Always, Thanks to tutorials from [The Free Code Camp.org](https://www.youtube.com/@freecodecamp) for their neverending help.
 [This](https://www.youtube.com/watch?v=ec8vSKJuZTk&list=PLVzJm6SiAms8ghmF98T7bCiM7oAfA3uTW&index=13&t=5442s) video was referred. 
+
+Music is a simple version of the GOT theme song and is not owned by me.
