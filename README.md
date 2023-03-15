@@ -5,7 +5,7 @@ A simple Memory Game themed on Game of Thrones, written in HTML, CSS and JavaScr
 1. Clone the Repository
 2. Open the `index.html` file in your browser
 3. Play the Game
-4. Or just head over to `game_of_memories.surge.sh` and Play!
+4. Or just head over to [Its Deployed Website](http://game_of_memories.surge.sh) and Play!
 
 # Screenshot
 ![](screenshot.png)
